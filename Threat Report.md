@@ -791,4 +791,3 @@ This was a sophisticated, pre-meditated intrusion consistent with a ransomware-a
 - Defender XDR Incident 88471 (Pre-Ransom classification) served as initial triage context
 - All timestamps are UTC; Defender PDF displayed UTC-5 (local display only)
 - MITRE ATT&CK mappings reference ATT&CK Enterprise v15
-- Hunt conducted on: hunt.lognpacific.com | Workspace: LAW-SilentCorridor
